@@ -11,7 +11,7 @@
   "streamType": "HLS",
   "quality": "4K",
   "searchBaseUrl": "https://vidfast.vc/",
-  "scriptUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/vidfast/vidfast.js",
+  "scriptUrl": "https://raw.githubusercontent.com/xcxcdxdvx-png/Vidfastsora/refs/heads/main/vidfast.js",
   "asyncJS": true,
   "softsub": false,
   "type": "shows"
