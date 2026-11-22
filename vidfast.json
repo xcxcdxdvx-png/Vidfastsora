@@ -1,0 +1,18 @@
+{
+  "sourceName": "vidfast",
+  "author": {
+    "name": "box_sheets",
+    "icon": "https://vidfast.vc/favicon.ico"
+  },
+  "iconUrl": "https://vidfast.vc/favicon.ico",
+  "version": "1.0.0",
+  "language": "English",
+  "baseUrl": "https://vidfast.vc",
+  "streamType": "HLS",
+  "quality": "4K",
+  "searchBaseUrl": "https://vidfast.vc/",
+  "scriptUrl": "https://raw.githubusercontent.com/USERNAME/REPO/main/vidfast/vidfast.js",
+  "asyncJS": true,
+  "softsub": false,
+  "type": "shows"
+}
